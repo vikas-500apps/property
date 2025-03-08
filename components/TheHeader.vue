@@ -12,7 +12,7 @@ const mobileMenuOpen = ref(false);
       <div class="flex items-center gap-2">
         <NuxtLink to="/" class="flex items-center gap-2">
           <Building class="h-6 w-6 text-primary" />
-          <span class="text-xl font-bold text-primary">Property Portal</span>
+          <span class="text-xl font-bold text-primary">Tenant Properties</span>
         </NuxtLink>
       </div>
 
@@ -27,7 +27,7 @@ const mobileMenuOpen = ref(false);
       <!-- Desktop Buttons -->
       <div class="hidden md:flex items-center gap-4">
         <NuxtLink to="/tenant-portal">
-          <button class="border px-4 py-2 rounded transition hover:bg-gray-100">Tenant Portal</button>
+          <button class="border px-4 py-2 rounded transition hover:bg-gray-100">Tenant Properties</button>
         </NuxtLink>
         <NuxtLink to="/apply">
           <button class="bg-primary text-white px-4 py-2 rounded transition hover:bg-primary/90">Apply Now</button>
@@ -62,7 +62,7 @@ const mobileMenuOpen = ref(false);
         </NuxtLink>
         <div class="flex flex-col gap-2 pt-2 border-t">
           <NuxtLink to="/tenant-portal">
-            <button class="border px-4 py-2 w-full rounded transition hover:bg-gray-100">Tenant Portal</button>
+            <button class="border px-4 py-2 w-full rounded transition hover:bg-gray-100">Tenant Properties</button>
           </NuxtLink>
           <NuxtLink to="/apply">
             <button class="bg-primary text-white px-4 py-2 w-full rounded transition hover:bg-primary/90">Apply Now</button>

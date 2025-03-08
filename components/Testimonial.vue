@@ -7,7 +7,7 @@ const testimonials = [
     name: "Sarah Johnson",
     role: "Tenant since 2021",
     content:
-      "I've been renting with PropertyPortal for over 2 years and the experience has been fantastic. The online portal makes paying rent and submitting maintenance requests so easy!",
+      "I've been renting with Tenant Properties for over 2 years and the experience has been fantastic. The online portal makes paying rent and submitting maintenance requests so easy!",
     rating: 5,
     avatar: "https://avatar.iran.liara.run/public/39",
   },
@@ -16,7 +16,7 @@ const testimonials = [
     name: "Michael Rodriguez",
     role: "Tenant since 2022",
     content:
-      "The application process was smooth and the property manager was very responsive. I love the convenience of the tenant portal for all my needs.",
+      "The application process was smooth and the property manager was very responsive. I love the convenience of the tenant properties for all my needs.",
     rating: 5,
     avatar: "https://avatar.iran.liara.run/public/28",
   },

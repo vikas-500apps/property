@@ -6,7 +6,7 @@
         <div class="relative">
           <img
             src="/Banner.webp"
-            alt="About PropertyPortal"
+            alt="About Tenant Properties"
             class="w-full h-64 md:h-80 object-cover"
           />
           <div
@@ -17,7 +17,7 @@
                 <h1
                   class="text-white text-4xl md:text-5xl lg:text-6xl font-bold mb-4 drop-shadow-md"
                 >
-                  Property Portal
+                Tenant Properties
                 </h1>
                 <p
                   class="text-white font-bold text-xl md:text-2xl max-w-2xl mx-auto drop-shadow-md"
@@ -39,7 +39,7 @@
           </h2>
           <div class="prose prose-lg max-w-none">
             <p class="text-text-light mb-4">
-              Founded in 2015, PropertyPortal began with a simple idea: make
+              Founded in 2015, Tenant Properties began with a simple idea: make
               renting properties as easy as ordering a ride or food delivery.
               Our founders, having experienced the frustrations of traditional
               property management firsthand, set out to create a platform that
@@ -54,7 +54,7 @@
               property owners and renters.
             </p>
             <p class="text-text-light">
-              Today, PropertyPortal is proud to be at the forefront of the
+              Today, Tenant Properties is proud to be at the forefront of the
               digital transformation in real estate, combining cutting-edge
               technology with personalized service to make property management
               and renting simpler, more transparent, and more efficient than

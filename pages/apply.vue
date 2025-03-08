@@ -869,7 +869,7 @@
                   required
                 />
                 <span class="text-sm text-secondary-700">
-                  I authorize PropertyPortal to obtain a consumer report, which
+                  I authorize Tenant Properties to obtain a consumer report, which
                   may include credit, criminal background, and eviction history,
                   and to verify all information provided in this application.*
                 </span>

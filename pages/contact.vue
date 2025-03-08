@@ -115,9 +115,9 @@
             </svg>
           </div>
           <h3 class="text-lg font-semibold mb-2">Email Us</h3>
-          <p class="text-secondary-600 mb-1">info@propertyportal.com</p>
-          <p class="text-secondary-600 mb-1">support@propertyportal.com</p>
-          <p class="text-secondary-600">careers@propertyportal.com</p>
+          <p class="text-secondary-600 mb-1">info@tenantproperties.com</p>
+          <p class="text-secondary-600 mb-1">support@tenantproperties.com</p>
+          <p class="text-secondary-600">careers@tenantproperties.com</p>
         </div>
       </div>
     </div>
@@ -278,7 +278,7 @@
                       required
                     />
                     <span class="text-sm text-secondary-700">
-                      I consent to PropertyPortal collecting and storing my data
+                      I consent to Tenant Properties collecting and storing my data
                       from this form to respond to my inquiry. I understand my
                       data will be processed in accordance with the Privacy
                       Policy.*

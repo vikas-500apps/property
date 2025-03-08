@@ -10,12 +10,12 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
-      title: "Property Management Portal",
+      title: "Tenant Properties",
       meta: [
         {
           name: "description",
           content:
-            "Modern property management portal for browsing, comparing, and applying for rental properties",
+            "Tenant Properties for browsing, comparing, and applying for rental properties",
         },
       ],
       link: [

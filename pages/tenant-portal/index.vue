@@ -3,7 +3,7 @@
     <div class="flex flex-col items-center justify-center max-w-md mx-auto">
       <div class="flex items-center gap-2 mb-8">
         <Building class="h-8 w-8 text-indigo-600" />
-        <h1 class="text-2xl font-bold">Tenant Portal</h1>
+        <h1 class="text-2xl font-bold">Tenant Properties</h1>
       </div>
 
       <div class="w-full">
@@ -41,7 +41,7 @@
             <div class="p-6">
               <h2 class="text-xl font-semibold">Login to your account</h2>
               <p class="text-gray-500 mt-1">
-                Access your tenant portal to pay rent, submit maintenance
+                Access your tenant properties to pay rent, submit maintenance
                 requests, and more.
               </p>
             </div>
@@ -115,7 +115,7 @@
             <div class="p-6">
               <h2 class="text-xl font-semibold">Create an account</h2>
               <p class="text-gray-500 mt-1">
-                Register for the tenant portal using the information provided by
+                Register for the tenant properties using the information provided by
                 your property manager.
               </p>
             </div>

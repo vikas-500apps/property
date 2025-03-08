@@ -10,7 +10,7 @@ import { Building, Facebook, Instagram, Mail, MapPin, Phone, Twitter } from "luc
         <div>
           <div class="flex items-center gap-2 mb-4">
             <Building class="h-6 w-6 text-primary" />
-            <span class="text-xl font-bold text-white">PropertyPortal</span>
+            <span class="text-xl font-bold text-white">Tenant Properties</span>
           </div>
           <p class="text-gray-400 mb-6">
             Finding you the perfect place to call home with professional property management services.
@@ -37,7 +37,7 @@ import { Building, Facebook, Instagram, Mail, MapPin, Phone, Twitter } from "luc
           <ul class="space-y-3">
             <li><NuxtLink to="/properties" class="text-gray-400 hover:text-white">Properties</NuxtLink></li>
             <li><NuxtLink to="/compare" class="text-gray-400 hover:text-white">Compare Properties</NuxtLink></li>
-            <li><NuxtLink to="/tenant-portal" class="text-gray-400 hover:text-white">Tenant Portal</NuxtLink></li>
+            <li><NuxtLink to="/tenant-portal" class="text-gray-400 hover:text-white">Tenant Properties</NuxtLink></li>
             <li><NuxtLink to="/apply" class="text-gray-400 hover:text-white">Apply for Rental</NuxtLink></li>
             <li><NuxtLink to="/about" class="text-gray-400 hover:text-white">About Us</NuxtLink></li>
           </ul>
@@ -72,7 +72,7 @@ import { Building, Facebook, Instagram, Mail, MapPin, Phone, Twitter } from "luc
             </li>
             <li class="flex items-center gap-3">
               <Mail class="h-5 w-5 text-primary" />
-              <span class="text-gray-400">info@propertyportal.com</span>
+              <span class="text-gray-400">info@tenantproperties.com</span>
             </li>
           </ul>
         </div>
@@ -80,7 +80,7 @@ import { Building, Facebook, Instagram, Mail, MapPin, Phone, Twitter } from "luc
 
       <!-- Footer Copyright -->
       <div class="border-t border-gray-800 mt-12 pt-8 text-center text-gray-500 text-sm">
-        <p>&copy; {{ new Date().getFullYear() }} PropertyPortal. All rights reserved.</p>
+        <p>&copy; {{ new Date().getFullYear() }} Tenant Properties. All rights reserved.</p>
       </div>
     </div>
   </footer>

@@ -92,13 +92,13 @@ const propertyTypes = [
       <div class="container mx-auto">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
           <div>
-            <h2 class="text-3xl font-bold mb-4">Tenant Portal</h2>
+            <h2 class="text-3xl font-bold mb-4">Tenant Properties</h2>
             <p class="text-lg mb-6">
-              Access our convenient tenant portal to pay rent, submit maintenance requests, and communicate with property
+              Access our convenient tenant properties to pay rent, submit maintenance requests, and communicate with property
               management.
             </p>
             <div class="flex flex-col sm:flex-row gap-4">
-              <button class="btn bg-blue-600 text-white px-4 py-2 rounded-md">Login to Portal</button>
+              <button class="btn bg-blue-600 text-white px-4 py-2 rounded-md">Login to properties</button>
               <button class="btn border border-blue-600 text-blue-600 px-4 py-2 rounded-md hover:bg-blue-100">
                 Learn More
               </button>

@@ -24,7 +24,7 @@
         <div class="flex items-center gap-2">
           <NuxtLink to="/" class="flex items-center gap-2">
             <Building class="h-6 w-6 text-primary" />
-            <span class="text-xl font-bold text-primary">Property Portal</span>
+            <span class="text-xl font-bold text-primary">Tenant Properties</span>
           </NuxtLink>
         </div>
       </div>
