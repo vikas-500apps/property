@@ -9,7 +9,7 @@ const testimonials = [
     content:
       "I've been renting with Tenant Properties for over 2 years and the experience has been fantastic. The online portal makes paying rent and submitting maintenance requests so easy!",
     rating: 5,
-    avatar: "https://avatar.iran.liara.run/public/39",
+    avatar: "/sarah-test.webp",
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ const testimonials = [
     content:
       "The application process was smooth and the property manager was very responsive. I love the convenience of the tenant properties for all my needs.",
     rating: 5,
-    avatar: "https://avatar.iran.liara.run/public/28",
+    avatar: "/michael-rodriguez.webp",
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const testimonials = [
     content:
       "Finding my apartment was so easy with their website. The comparison tool helped me find exactly what I was looking for, and maintenance requests are always handled promptly. I couldn't be happier!",
     rating: 4,
-    avatar: "https://avatar.iran.liara.run/public/40",
+    avatar: "/emily-chen.webp",
   },
 ];
 </script>

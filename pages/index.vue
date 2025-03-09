@@ -107,6 +107,7 @@ const propertyTypes = [
           <div class="bg-white p-6 rounded-lg shadow-lg">
             <div class="aspect-video bg-gray-100 rounded-md mb-4 flex items-center justify-center">
               <Building class="h-16 w-16 text-blue-500/30" />
+              <h2 class="text-3xl text-blue-500/30 font-bold">Tenant Properties</h2>
             </div>
             <div class="space-y-4">
               <div class="h-8 bg-gray-100 rounded-md w-3/4"></div>
