@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { defineProps, useAttrs } from "vue";
+import { useAttrs } from "vue";
 
 // Utility function to merge classes
 const cn = (...classes: (string | undefined)[]) => classes.filter(Boolean).join(" ");

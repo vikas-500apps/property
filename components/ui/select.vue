@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, defineProps, computed } from "vue";
+import { ref, computed } from "vue";
 import { Check, ChevronDown, ChevronUp } from "lucide-vue-next";
 
 // Utility function to merge classes

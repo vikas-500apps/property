@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, defineProps, useAttrs } from "vue";
+import { computed, useAttrs } from "vue";
 import { cva } from "class-variance-authority";
 
 // Define button variants using cva
